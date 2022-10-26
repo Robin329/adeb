@@ -1,0 +1,9 @@
+PACKAGES+="\
+git
+clang-11
+gcc
+libtool
+autoconf
+make
+cmake
+"

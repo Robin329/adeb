@@ -1,0 +1,4 @@
+PACKAGES+="\
+xz-utils
+unzip
+"

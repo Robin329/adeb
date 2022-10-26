@@ -1,0 +1,8 @@
+#!/bin/bash -e
+#
+# (c) Joel Fernandes <joel@joelfernandes.org>
+
+export ADEB_REPO_URL="github.com/joelagnel/adeb/"
+
+spath="$(dirname "$(readlink -f "$0")")"
+source $spath/androdeb
